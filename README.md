@@ -1,4 +1,4 @@
-## Hello there 👋 I'm Dmitry Kolomeytcev, I am a beginner Python Developer
+## Hello there 👋 I'm Dmitry Kolomeytcev, I am a Python Developer
 
 I write programms on Django, Flask and FastAPI projects and also telegram bots.
 I am constantly learning new libraries and learning other programming languages.
